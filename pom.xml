@@ -50,24 +50,14 @@
         <dependency>
             <groupId>com.cloudinary</groupId>
             <artifactId>cloudinary-taglib</artifactId>
-<<<<<<< HEAD
             <version>1.22.1</version>
         </dependency>
         <dependency>
             <groupId>com.cloudinary</groupId>
             <artifactId>cloudinary-http44</artifactId>
             <version>1.22.1</version>
-=======
-            <version>1.2.1</version>
         </dependency>
-        <dependency>
-            <groupId>com.cloudianry</groupId>
-            <artifactId>cloudinary-http44</artifactId>
-            <version>1.2.1</version>
->>>>>>> origin/master
-        </dependency>
-    </dependencies>
-
+   </dependencies>
     <build>
         <plugins>
             <plugin>
